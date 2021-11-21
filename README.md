@@ -1,3 +1,3 @@
-Author | thing | Link
+plugin | thing | Link
 ------ | ------ | ----
-AI | punch model | [[*https://github.com/Mikk155/ClassicModeCustom classic mode custom]]
+Classic Mode Custom **https://github.com/Mikk155/ClassicModeCustom classic mode custom**| punch model |
