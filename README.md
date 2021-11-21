@@ -1,3 +1,4 @@
+Finished Projects at [scmapdb](http://scmapdb.com/mapper:mikk)
 Repository | information
 ---------- | -----------
 [Classic Mode Custom](https://github.com/Mikk155/ClassicModeCustom) | Custom models, weapons, and things for Sven Co-op classic mode, most of the NPCs has been buffed/adjusted, and the weapons are not exactly "classic"|
@@ -10,5 +11,3 @@ WiP projects | description
 ------------ | -----------
 [Residual Point](https://github.com/Mikk155/Residual-Point-svencoop) | Residual Point Mod porting to Sven Co-op
 [ESHQ](https://github.com/Mikk155/ESHQ-Final) | ESHQ Mod porting to Sven Co-op
-
-Finished Projects at [scmapdb](http://scmapdb.com/mapper:mikk)
