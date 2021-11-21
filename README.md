@@ -1,3 +1,3 @@
 plugin | thing | Link
 ------ | ------ | ----
-Classic Mode Custom <https://github.com/Mikk155/ClassicModeCustom> | punch model |
+Classic Mode Custom [github pages](https://github.com/Mikk155/ClassicModeCustom) | punch model |
