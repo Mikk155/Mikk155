@@ -11,3 +11,4 @@ Repository | information
 WiP projects | description
 ------------ | -----------
 [ESHQ](https://github.com/Mikk155/ESHQ-Final) | ESHQ Mod porting to Sven Co-op
+[HCL](https://github.com/Mikk155/HARDCORE-LIFE) | Hardcore-Life Custom Sven Co-op Campaign
