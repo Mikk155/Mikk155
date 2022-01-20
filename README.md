@@ -1,6 +1,7 @@
 Finished Projects at [scmapdb](http://scmapdb.com/mapper:mikk)
 Repository | information
 ---------- | -----------
+[multi-language](https://github.com/Mikk155/Sven-Coop-Multi-language-localizations) | custom entity for Sven Co-op that let players choose a language
 [Classic Mode Custom](https://github.com/Mikk155/ClassicModeCustom) | Custom models, weapons, and things for Sven Co-op classic mode, most of the NPCs has been buffed/adjusted, and the weapons are not exactly "classic"|
 [Anti-Rush Plugin](https://github.com/Mikk155/Anti-Rush) | Anti-Rush plugin that Support Expansions for maps, commands to manipulate/delete it, and it'll drop HUD message to the players near the zone instead of spoil the map with icons
 [AngelScript](https://github.com/Mikk155/angelscript) | some of angelscript made for our server, porting purposes or map-creations 
