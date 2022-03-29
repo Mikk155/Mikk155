@@ -1,3 +1,9 @@
+NOTE: all those things are subjet to be outdates or unfinished.
+I just loss interest in Sven Co-op. Feel free to
+Duplicate em and finish/fix them by yourseld.
+But dont forget to credit all those persons behind
+The credits.
+
 Finished Projects at [scmapdb](http://scmapdb.com/mapper:mikk)
 Repository | information
 ---------- | -----------
