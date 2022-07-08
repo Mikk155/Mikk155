@@ -1,7 +1,5 @@
-Finished Projects at [scmapdb](http://scmapdb.com/mapper:mikk)
 Repository | information
 ---------- | -----------
-[multi-language](https://github.com/Mikk155/Sven-Coop-Multi-language-localizations) | custom entity for Sven Co-op that let players choose a map's language
-[AngelScript](https://github.com/Mikk155/angelscript) | some of angelscript made for our server, porting purposes or map-creations 
+[multi-language]([https://github.com/Mikk155/Sven-Coop-Multi-language-localizations](https://github.com/Mikk155/Sven-Co-op/tree/main/Custom%20content/game_text_custom)) | custom entity for Sven Co-op that let players choose a map's language
 [SC-Stuff](https://github.com/Mikk155/Sven-Co-op) | An assortment of test maps and additional information for SC stuff
 [Residual Point](https://github.com/Mikk155/Residual-Point-svencoop) | Residual Point Mod ported for Sven Co-op. [Scmapdb.com](http://scmapdb.wikidot.com/map:residual-point)
