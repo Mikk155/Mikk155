@@ -1,16 +1,14 @@
+# Sven Co-op
+
 Repository | information
 ---------- | -----------
-[Sven Co-op Stuff](https://github.com/Mikk155/Sven-Co-op) | An assortment of test maps, additional information for SC stuff, Angelscript plugins / map-scripts, new entities and anything related to SC.
-[Residual-Point](https://github.com/Mikk155/Residual-Point-svencoop) | Port for Sven Co-op of the mod called "Residual Point" see more at [scmapdb](http://scmapdb.wikidot.com/map:residual-point)
-
-<details><summary>Contact Info 📫</summary>
-<p>
+[MapScripts](https://github.com/Mikk155/Sven-Co-op) | General map scripts for mappers |
+[Plugins](https://github.com/Mikk155/Sven-Co-op-Plugins) | General plugins for server operators |
+[Multi-Language](https://github.com/Mikk155/multi_language) | Plugin for adding multi language support to any map |
+[Anti-Rush](https://github.com/Mikk155/Sven-Co-op-Anti-Rush) | Plugin for adding anti-rush feature to any map |
+[Residual-Point](https://github.com/Mikk155/Residual-Point-svencoop) | Residual-Point mod for Sven Co-op, See [scmapdb](http://scmapdb.wikidot.com/map:residual-point)
 
 [Discord server invite](https://discord.gg/VsNnE3A7j8)
 ---
 Username: ``Mikk#3885``
 ---
-  
-</p>
-</details>
-
