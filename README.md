@@ -1,5 +1,6 @@
 | Repository | Description |
 |---|---|
+| [mikk.py](https://github.com/Mikk155/mikk) | My pip library for various utilities i do use (yeah lack of better name, has tons of different topics in it) |
 | [discord-bot](https://github.com/Mikk155/discord-bot) | Discord bot template writen in python with a Hooking system for using plugins |
 | [Minecraft](https://github.com/Mikk155/Minecraft) | "Base defense" Half-Life mod themed in Minecraft |
 | [Lambda](https://github.com/Mikk155/Lambda) | My modifications of the Half-Life 2 Co-op addon for Garry's mod with the same name |
