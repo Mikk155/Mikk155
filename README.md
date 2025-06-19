@@ -1,3 +1,15 @@
+<!--
+static percentage vars per language
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-progress-bars
+-->
+
+<!--
+Themes
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+-->
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikk155&layout=donut&theme=midnight-purple&hide=rescript,actionscript,batchfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+
+
 | Repository | Description |
 |---|---|
 | [unified-sdk](https://github.com/Mikk155/halflife-unified-sdk) | Various experiments in the Half-Life Unified SDK |
