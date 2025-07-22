@@ -17,8 +17,9 @@ images: https://abrudz.github.io/logos/
 |---|---|---|
 | <img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="30"/> <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [limitlesspotential-sdk](https://github.com/Mikk155/limitlesspotential-sdk) | Various experiments in the Half-Life Unified SDK |
 | <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [discord-bot](https://github.com/Mikk155/discord-bot) | Discord bot template writen in python with a Hooking system for using plugins |
-| <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [youtube-music](https://github.com/Mikk155/youtube-music) | Download music from a youtube playlist |
-| <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [Discord-Rich-Presence-Dynamic](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic2) | Update your discord rich presence on a scheduled basis |
+| <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [youtube-music2](https://github.com/Mikk155/youtube-music2) | Download music from a youtube playlist |
+| <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [youtube-music](https://github.com/Mikk155/youtube-music) | Deprecated. moved to the repository above. |
+| <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [Discord-Rich-Presence-Dynamic2](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic2) | Update your discord rich presence on a scheduled basis |
 | <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [Discord-Rich-Presence-Dynamic](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic) | Deprecated. moved to the repository above. |
 | <img src="https://abrudz.github.io/logos/Lua.svg" width="30"/> | [Lambda](https://github.com/Mikk155/garrysmod) | Scripts and plugins for Garrysmod to emulate a cooperative, hardcore and antirush experience |
 | <img src="https://i.ytimg.com/vi/315yLEaw-ZE/hqdefault.jpg" width="40"/> | [Sven-Co-op](https://github.com/Mikk155/Sven-Co-op) | Various experiments in the Sven Co-op Angelscript language |
