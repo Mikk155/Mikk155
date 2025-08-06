@@ -8,22 +8,16 @@ Themes
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikk155&layout=donut&theme=midnight-purple&hide=rescript,c,actionscript,batchfile,shell,cmake,makefile,awk)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=limitlesspotential-sdk&theme=midnight-purple)](https://github.com/Mikk155/limitlesspotential-sdk)
+---
 <!--
-images: https://abrudz.github.io/logos/
-<img src="" width="20"/>
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=discord-bot2)](https://github.com/Mikk155/discord-bot2)
 -->
-| Language | Repository | Description |
-|---|---|---|
-| <img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="30"/> <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [limitlesspotential-sdk](https://github.com/Mikk155/limitlesspotential-sdk) | Various experiments in the Half-Life Unified SDK |
-| <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [discord-bot](https://github.com/Mikk155/discord-bot) | Discord bot template writen in python with a Hooking system for using plugins |
-| <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [youtube-music2](https://github.com/Mikk155/youtube-music2) | Download music from a youtube playlist |
-| <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [youtube-music](https://github.com/Mikk155/youtube-music) | Deprecated. moved to the repository above. |
-| <img src="https://abrudz.github.io/logos/CSharp.svg" width="30"/> | [Discord-Rich-Presence-Dynamic2](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic2) | Update your discord rich presence on a scheduled basis |
-| <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> | [Discord-Rich-Presence-Dynamic](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic) | Deprecated. moved to the repository above. |
-| <img src="https://abrudz.github.io/logos/Lua.svg" width="30"/> | [Lambda](https://github.com/Mikk155/garrysmod) | Scripts and plugins for Garrysmod to emulate a cooperative, hardcore and antirush experience |
-| <img src="https://i.ytimg.com/vi/315yLEaw-ZE/hqdefault.jpg" width="40"/> | [Sven-Co-op](https://github.com/Mikk155/Sven-Co-op) | Various experiments in the Sven Co-op Angelscript language |
-| <img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="30"/> | [svencoop-metamod](https://github.com/Mikk155/svencoop-metamod) | Metamod plugins for sven coop |
-| <img src="https://abrudz.github.io/logos/Python.svg" width="30"/> <img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="30"/> <img src="https://i.ytimg.com/vi/315yLEaw-ZE/hqdefault.jpg" width="40"/> | [hl-server-manager](https://github.com/Mikk155/hl-server-manager) | Server manager to start or shutdown a game server from a discord bot |
-| <img src="https://i.ytimg.com/vi/315yLEaw-ZE/hqdefault.jpg" width="40"/> | [bts_rc](https://github.com/Mikk155/bts_rc) | Map scripts for the Sven Co-op map with the same name |
-| <img src="https://i.ytimg.com/vi/315yLEaw-ZE/hqdefault.jpg" width="40"/> | [sc-backrooms_survey](https://github.com/Mikk155/sc-backrooms_survey) | Map scripts for the Sven Co-op map with the same name |
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=discord-bot&theme=midnight-purple)](https://github.com/Mikk155/discord-bot)
+---
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=youtube-music2&theme=midnight-purple)](https://github.com/Mikk155/youtube-music2)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=youtube-music&theme=midnight-purple)](https://github.com/Mikk155/youtube-music)
+---
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=Discord-Rich-Presence-Dynamic2&theme=midnight-purple)](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic2)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=Discord-Rich-Presence-Dynamic&theme=midnight-purple)](https://github.com/Mikk155/Discord-Rich-Presence-Dynamic)
