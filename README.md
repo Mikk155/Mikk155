@@ -11,6 +11,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 ---
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=limitlesspotential-sdk&theme=midnight-purple)](https://github.com/Mikk155/limitlesspotential-sdk)
 ---
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=Sven-Co-op&theme=midnight-purple)](https://github.com/Mikk155/Sven-Co-op)
+---
 <!--
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=discord-bot2)](https://github.com/Mikk155/discord-bot2)
 -->
