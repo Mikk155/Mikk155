@@ -7,7 +7,7 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-progr
 Themes
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikk155&layout=donut&theme=midnight-purple&hide=rescript,c,actionscript,batchfile,shell,cmake,makefile,awk)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikk155&layout=donut&theme=midnight-purple&hide=rescript,c,actionscript,batchfile,shell,cmake,makefile,awk,html)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mikk155&repo=limitlesspotential-sdk&theme=midnight-purple)](https://github.com/Mikk155/limitlesspotential-sdk)
 ---
