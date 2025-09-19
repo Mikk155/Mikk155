@@ -1,5 +1,8 @@
+[![Discord Widget](https://discord.com/api/guilds/744769532513615922/widget.png?style=banner2)](https://discord.gg/Wm8WqCSCUX)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/744768007892500481?theme=light&bg=80f6ff&borderRadius=40px)](https://discord.com/users/744768007892500481)
 ---
+
 <!--
 static percentage vars per language
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hide-progress-bars
