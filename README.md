@@ -1,20 +1,14 @@
-Open for programing commissions.
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikk155&layout=donut&theme=midnight-purple&hide=rescript,c,actionscript,batchfile,shell,cmake,makefile,awk,html)](https://github.com/anuraghazra/github-readme-stats)
 
-Languages i know:
-- C++
-- C# (.NET)
-- Python
-- AngelScript Sven Co-op
-- JavaScript Web (Medium)
-- Lua Garry's Mod (Medium)
 
-You can reach me in discord down bellow
-<!--
-[![Discord Widget](https://discord.com/api/guilds/744769532513615922/widget.png?style=banner2)](https://discord.gg/Wm8WqCSCUX)
--->
+My Discord for contact:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/744768007892500481?theme=light&bg=80f6ff&borderRadius=40px)](https://discord.com/users/744768007892500481)
 ---
+
+My Discord server:
+
+[![Discord Widget](https://discord.com/api/guilds/744769532513615922/widget.png?style=banner2)](https://discord.gg/Wm8WqCSCUX)
 
 <!--
 static percentage vars per language
