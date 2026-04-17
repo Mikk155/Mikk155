@@ -1,4 +1,9 @@
+
+[![stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mikk155&layout=compact&theme=midnight-purple&hide=rescript,shell&langs_count=20&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikk155&layout=donut&theme=midnight-purple&hide=rescript,c,actionscript,batchfile,shell,cmake,makefile,awk,html)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 My Discord for contact:
